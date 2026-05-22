@@ -11,8 +11,8 @@ O projeto busca integrar mobilidade elétrica, eficiência e monitoramento intel
 # Intrgrantes
 
 - Akin Alexandre Mendes Martins - RM 572553
-- Nome Completo - RM
-- Nome Completo - RM
+- Maria Eduarda Rocha Benjamim - RM 570554
+- Pedro Henrique Neves - RM - 571382
 
 ---
 
